@@ -6,5 +6,6 @@ def parrot (name = "squank!")
  return "squank!"
  else
  puts "Pretty bird!"
+ return "Pretty bird!"
  end
 end
