@@ -3,9 +3,9 @@
 def parrot (name = "squank!")
  if name = " "
  puts "squank!"
- else 
+ else
  puts "Pretty bird!"
  end
 
-  
+
 end
